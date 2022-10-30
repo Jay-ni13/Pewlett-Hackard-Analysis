@@ -15,7 +15,7 @@ hire_date date
 Employee_Dept
 -
 emp_no int pk fk -< Employees.emp_no
-dept_no varchar fk -< Departments.dept_no
+dept_no varchar pk fk -< Departments.dept_no
 from_date date
 to_date date
 
