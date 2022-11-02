@@ -21,7 +21,7 @@ We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 - The three departments who will be hit the hardest by staffing shortages with are 1) Development, 2) Production, and 3) Sales.
 
 ![Retiring Titles](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
-![Retiring Count by Department]()
+![Retiring Count by Department](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png)
 
 ### Employees Eligible for the Mentorship Program
 In anticipation of these upcoming retirements, Pewlett-Hackard's Sales and Development departments requested lists of employees getting ready to retire who might be willing to stay on in part-time roles to help mentor the anticipated influx of new hires rather than retiring completely.
@@ -34,11 +34,11 @@ Moving forward, there are two questions that are central in determing how to pre
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   Each year over the next 4 years--if all of the retirement packages are accepted--an average of 18,114.5 positions will need to be filled.
 
-![Retiring Count by Year]()
+![Retiring Count by Year](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_year.png)
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-![Mentorship by Dept]()
+![Mentorship by Dept](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_by_dept.png)
 
   Given the limited number of potential mentors and the large number of potential retires, it would be very difficult for a part-time mentor to handle 12 new hires to   mentee each year.
 
