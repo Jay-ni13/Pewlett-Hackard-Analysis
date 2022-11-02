@@ -20,7 +20,8 @@ We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 - Most of these probable retirees--50,842--hold senior staff and engineering postions.
 - The three departments who will be hit the hardest by staffing shortages with are 1) Development, 2) Production, and 3) Sales.
 
-![Retiring Titles](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)![Retiring Count by Department](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png)
+![Retiring Titles](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
+![Retiring Count by Department](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png)
 
 ### Employees Eligible for the Mentorship Program
 In anticipation of these upcoming retirements, Pewlett-Hackard's Sales and Development departments managers requested lists of employees getting ready to retire who might be willing to stay on in part-time roles to help mentor the anticipated influx of new hires rather than retiring completely.
