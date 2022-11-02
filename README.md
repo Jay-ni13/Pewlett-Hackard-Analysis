@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Project Overview
-Constructing an employee database for Pewlett-Hackard to determine how many employees will be eligible for the retirement package in the next few years and the positions/titles the company will need to fill; and whether there are enough experienced employees interested in staying on part-time to mentor new hires. 
+Constructing an employee database for Pewlett-Hackard to determine how many employees will be eligible for their retirement package in the next few years and the positions/titles the company will need to fill; and whether there are enough experienced employees interested in staying on part-time to mentor new hires. 
 
 ## Resources
 - Data Source: Pewlett-Hackard files; departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
