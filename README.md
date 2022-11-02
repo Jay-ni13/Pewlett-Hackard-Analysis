@@ -24,13 +24,13 @@ We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 ![Retiring Count by Department](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png)
 
 ### Employees Eligible for the Mentorship Program
-In anticipation of these upcoming retirements, Pewlett-Hackard's Sales and Development departments requested lists of employees getting ready to retire who might be willing to stay on in part-time roles to help mentor the anticipated influx of new hires rather than retiring completely.
+In anticipation of these upcoming retirements, Pewlett-Hackard's Sales and Development departments managers requested lists of employees getting ready to retire who might be willing to stay on in part-time roles to help mentor the anticipated influx of new hires rather than retiring completely.
 - There are 1,549 current employees born in 1965 who would be eligible to participate in the mentorship program.
 
 ![Mentorship Eligibility](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.png)
 
 ## Summary
-Moving forward, there are two questions that are central in determing how to prepare Pewlett-Hackard for the upcoming wave of retirements.
+Moving forward, there are two issues that are central in determing how to prepare Pewlett-Hackard for the upcoming wave of retirements.
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   Each year over the next 4 years--if all of the retirement packages are accepted--an average of 18,114.5 positions will need to be filled.
 
