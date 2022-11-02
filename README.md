@@ -13,7 +13,7 @@ We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 
 ### Number of Retiring Employees by Title
 - Pewlett-Hackard has 72,458 employees born between 1952-1955 who will all be eligible for the company's retirement package over the next 4 years.
-- The company's current employee count is 240,124; their workforce could be reduced by up to 30.2% by the end of 2026.
+- The company's current employee count is 240,124; their workforce could be reduced by up to 30.2% by the end of this 4 year period.
 
 ![Retiring Employees by Title](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
 
