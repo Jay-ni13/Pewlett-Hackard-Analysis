@@ -9,13 +9,13 @@ Constructing an employee database for Pewlett-Hackard to determine how many empl
 ## Results
 We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 
-![Pewlett-Hackard DB Schema](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+![Pewlett-Hackard Database Schema](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
 ### Number of Retiring Employees by Title
 - Pewlett-Hackard has 72,458 employees born between 1952-1955 who will all be eligible for the company's retirement package over the next 4 years.
 - The company's current employee count is 240,124; their workforce could be reduced by up to 30.2% by the end of this 4 year period.
 
-![Retiring Employees by Title](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
+<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png" width=50%>
 
 - Most of these probable retirees--50,842--hold senior staff and engineering postions.
 - The three departments who will be hit the hardest by staffing shortages with are 1) Development, 2) Production, and 3) Sales.
