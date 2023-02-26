@@ -20,25 +20,24 @@ We utilized QuickDBD to create a physical ERD for Pewlett-Hackard's Excel files.
 - Most of these probable retirees--50,842--hold senior staff and engineering postions.
 - The three departments who will be hit the hardest by staffing shortages with are 1) Development, 2) Production, and 3) Sales.
 
-<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png" width=45%>
-<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png" width=45%>
+<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png" width=45%> <img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_dept.png" width=45%>
 
 ### Employees Eligible for the Mentorship Program
 In anticipation of these upcoming retirements, Pewlett-Hackard's Sales and Development departments managers requested lists of employees getting ready to retire who might be willing to stay on in part-time roles to help mentor the anticipated influx of new hires rather than retiring completely.
 - There are 1,549 current employees born in 1965 who are be eligible to participate in the mentorship program.
 
-![Mentorship Eligibility](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.png)
+<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.png" width=75%>
 
 ## Summary
 Moving forward, there are two issues that are central in determing how to prepare Pewlett-Hackard for the upcoming wave of retirements.
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Each year over the next 4 years--if all of the retirement packages are accepted--an average of 18,114.5 positions will need to be filled.
 
-![Retiring Count by Year](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_year.png)
+<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/retiring_count_by_year.png" width=75%>
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-![Mentorship by Dept](https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_by_dept.png)
+<img src="https://github.com/Jay-ni13/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_by_dept.png" width=50%>
 
 - Given the limited number of potential mentors and the large number of potential retires, it would be very difficult for a part-time mentor to handle 12 new hires to   mentee each year.
 
